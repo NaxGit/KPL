@@ -1,0 +1,162 @@
+@font-face
+{
+	font-family: indigenous;
+	src: url(./Rajdhani-Bold.ttf);
+}
+
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html
+{
+	font-size: 100%;
+}
+
+body {
+	/* background: #7665AC; */
+	/* background: #00863D; */
+	background: #002B36;
+	background: #10172B;
+	background: #19398A;
+	/* background: #FFFFFF; */
+	font-family: 'indigenous', 'Roboto', sans-serif;
+}
+
+header
+{
+	background: #3D4849 url('./zoro.svg');
+	background-size: auto 90%; /* Image will be 50% of the width and 50% of the height of the container */
+	background-repeat: no-repeat; /* Prevents repeating of the background image */
+	background-position: bottom left; /* Center the background image */
+	color: #FF671F;
+}
+.menu
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	/* background: #19398A; */
+
+	width: 3rem;
+	height: 3rem;
+
+	font-size: 1.5rem;
+	font-weight: bold;
+	
+
+	margin-left: auto;
+}
+.list
+{
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.6s ease-in;
+}
+.item
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: fit-content;
+	height: 10vw;
+
+	margin-left: auto;
+	padding-right: 1rem;
+
+	border-top: 3px groove #FF671F;
+	border-radius: 0.25rem 0 0 0;
+
+	letter-spacing: 0.25rem;
+}
+
+.expanded
+{
+	max-height: 100vw; /* ViewPort Width */
+}
+.tost {background: #3D4849;}
+
+.matches
+{
+	margin-top: 1rem;
+	display: none;
+	color: #FF671F;
+
+	article
+{
+	display: grid;
+	padding: 0.5rem;
+	grid-template-columns: 1fr 10% 1fr;
+	background: #10172B;
+	border-radius: 0.37rem;
+	margin: 0.25rem;
+}
+div
+{
+	padding: 0.5rem;
+	text-align: center;
+
+	background: #19398A;
+	border-radius: 0.37rem;
+}
+span
+{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.logo {
+	aspect-ratio: 1/1;
+	background: slateblue;
+}
+}
+
+.matches-info{color: #FFFFFF;}
+
+
+.teams {display: none;}
+
+.team
+{
+
+	color: #FF671F;
+	margin-top: 1rem;
+
+	article
+{
+	display: grid;
+	padding: 0.5rem;
+	gap: 0.5rem;
+	grid-template-columns: 1fr 20% 20%;
+	background: #10172B;
+	border-radius: 0.37rem;
+	margin: 0.25rem;
+}
+div
+{
+	padding: 0.5rem;
+	text-align: center;
+
+	background: #19398A;
+	border-radius: 0.37rem;
+}
+span
+{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.logo {
+	aspect-ratio: 1/1;
+	background: slateblue;
+}
+}
+
+.show {display: block;}
+
+.showt {display: block; }
