@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./occurrence/app.css">
+	<script src="./frequency/head.js"></script>
+	<script src="./frequency/matches.js"></script>
+	<title>Document</title>
+</head>
+
+<body>
+	<aurora-head></aurora-head>
+<div id="matches">
+	<article>
+		<div>Kolkata Knight Riders</div>
+		<span>Vs</span>
+		<div>Sunrisers Hyderabad</div>
+	</article>
+</div>
+
+<match-container></match-container>
+
+
+
+
+	
+	<div class="pt-stats__box_wrap">
+		<div class="pt-position sm-flex">
+			<div class="pt-pos__number ng-binding">1<span class="ot-border ng-binding"
+					ng-bind="list.OrderNo">1</span><!-- ngIf: list.IsQualified != undefined && list.IsQualified != null && list.IsQualified !='' && list.IsQualified !='0' --><span
+					class="standings_qualified ng-scope"
+					ng-if="list.IsQualified != undefined &amp;&amp; list.IsQualified != null &amp;&amp; list.IsQualified !='' &amp;&amp; list.IsQualified !='0'"></span><!-- end ngIf: list.IsQualified != undefined && list.IsQualified != null && list.IsQualified !='' && list.IsQualified !='0' -->
+			</div>
+			<div class="pt-pos__tname ng-binding" ng-bind="list.TeamName">Kolkata Knight Riders</div>
+		</div>
+		<div class="pt-team__logo t-ct">
+			
+			<img ng-src="https://scores.iplt20.com/ipl/teamlogos/KKR.png" alt=""
+				src="https://scores.iplt20.com/ipl/teamlogos/KKR.png"></div>
+		<div class="pt-info sm-flex">
+			<div class="pt-info__stats sm-flex t-ct">
+				<div class="pt-stats_number ng-binding" ng-bind="list.Points">20</div>Points
+			</div>
+			<div class="pt-info__stats sm-flex t-ct">
+				<div class="pt-stats_number ng-binding" ng-bind="list.Matches">14</div>Played
+			</div>
+			<div class="pt-info__stats sm-flex t-ct">
+				<div class="pt-stats_number ng-binding" ng-bind="list.Wins">9</div>Won
+			</div>
+			<div class="pt-info__stats sm-flex t-ct">
+				<div class="pt-stats_number pt-stats-G ng-binding" ng-bind="list.NetRunRate">1.428</div>NRR
+			</div>
+		</div>
+		<div class="pt-recent__form">
+			<div class="pt-recent__title">Recent form</div>
+			<div class="pt-recent__details sm-flex ng-binding"
+				ng-bind-html="bindRecentPerformance(list.Performance) | to_trusted">
+				<div class="pt-recent__info N ">N</div>
+				<div class="pt-recent__info N ">N</div>
+				<div class="pt-recent__info W pt-G">W</div>
+				<div class="pt-recent__info W pt-G">W</div>
+				<div class="pt-recent__info W pt-G">W</div>
+			</div>
+		</div>
+		<!-- ngIf: list.IsQualified != undefined && list.IsQualified != null && list.IsQualified !='' && list.IsQualified !='0' --><span
+			class="standings_qualified qa-mob ng-scope"
+			ng-if="list.IsQualified != undefined &amp;&amp; list.IsQualified != null &amp;&amp; list.IsQualified !='' &amp;&amp; list.IsQualified !='0'"></span><!-- end ngIf: list.IsQualified != undefined && list.IsQualified != null && list.IsQualified !='' && list.IsQualified !='0' -->
+	</div>
+	<p>
+		'star players',
+		'rising stars',
+		'commentary',
+		'types of deliveries, and basic rules',
+		'man of match',
+		'The Atmosphere',
+		'Follow social media',
+		'stadiums',
+		'Fixtures',
+		'Match results and scorecards'
+	</p>
+	
+	<main>
+		IPL Season Dates: Clearly state when the season starts and ends.
+		Team Information: List the participating teams, perhaps with their logos.
+		Match Schedule: Include a brief overview of the match schedule or where to find it.
+	</main>
+	<p>
+		Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo non quasi aliquid incidunt adipisci sequi a quis, ea, repudiandae earum tempora corporis laborum totam repellat aperiam doloremque? A, sed deleniti.
+	</p>
+	<main>
+		Team Fixtures - SORT BY team
+	</main>
+	<section>
+		Featured matches or events
+	</section>
+	<section>
+		Latest news and updates
+		Match Highlights
+	</section>
+	<section>Key moments and top performances
+		News & Articles
+
+		Latest news about the league and teams
+		Editorials, interviews, and opinion pieces</section>
+	<section>
+		Overview of the league
+	</section>
+	<main>
+		List of teams in the league
+		Team profiles with squad details
+		Team stats and performance
+	</main>
+	<main>
+		Forums or discussion boards
+		Fan polls and predictions
+		Merchandise and fan gear
+		Gallery
+		Photos from matches and events
+		Behind-the-scenes content
+		Tickets & Events
+	</main>
+	<main>
+		Statistics
+	</main>
+	<main>
+		Detailed player and team statistics
+		Historical records and milestones
+		Key Roles: Understand the roles of different players like batsmen, bowlers, and all-rounders.
+	</main>
+	<main>
+		Cricket Fundamentals: Get familiar with basic cricket rules, scoring, and terminology.
+		IPL Format:
+	</main>
+
+	<main>
+		Live Scores
+
+		Real-time updates for ongoing matches
+		Live commentary or play-by-play
+		App Features (if applicable)
+
+		Push notifications for scores and news
+	</main>
+	<main>
+		Contact form for inquiries or feedback
+		Social media links
+		League office contact information
+		About Us
+
+		Information about the league’s history and mission
+		Team and staff information
+		FAQs
+
+		Common questions and answers about the league, ticketing, etc.
+	</main>
+	<main>
+		Players
+
+		Player profiles with stats
+		Player rankings and highlights
+		Career records and achievements
+		League Standings
+	</main>
+	<main>
+		Match results and scorecards Current team standings and points table Net run rate and other key metrics
+	</main>
+	<aside>
+		Highlight Key Matches: Use bold fonts or different colors to highlight important matches, like openers,
+		eliminators, or the final.
+	</aside>
+</body>
+
+</html>

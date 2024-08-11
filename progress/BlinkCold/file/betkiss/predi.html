@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket Betting Predictions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        form {
+            display: grid;
+            gap: 15px;
+        }
+        label {
+            font-weight: bold;
+        }
+        select, input[type="text"], input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        input[type="submit"] {
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Place Your Cricket Betting Predictions</h1>
+        <form id="bettingForm">
+            <label for="matchOutcome">Match Outcome:</label>
+            <select id="matchOutcome" name="matchOutcome">
+                <option value="">Select an option</option>
+                <option value="teamA">Team A</option>
+                <option value="teamB">Team B</option>
+                <option value="tie">Tie</option>
+            </select>
+            
+            <label for="topBatsman">Top Batsman:</label>
+            <input type="text" id="topBatsman" name="topBatsman" placeholder="Enter player name">
+            
+            <label for="topBowler">Top Bowler:</label>
+            <input type="text" id="topBowler" name="topBowler" placeholder="Enter player name">
+            
+            <label for="totalRuns">Total Runs Scored:</label>
+            <input type="text" id="totalRuns" name="totalRuns" placeholder="Enter total runs">
+            
+            <label for="playerHalfCentury">Player to Score a Half-Century:</label>
+            <input type="text" id="playerHalfCentury" name="playerHalfCentury" placeholder="Enter player name">
+            
+            <label for="firstWicketMethod">First Wicket Method:</label>
+            <select id="firstWicketMethod" name="firstWicketMethod">
+                <option value="">Select an option</option>
+                <option value="bowled">Bowled</option>
+                <option value="caught">Caught</option>
+                <option value="lbw">LBW</option>
+                <option value="runOut">Run Out</option>
+                <option value="stumped">Stumped</option>
+            </select>
+            
+            <label for="highestPartnership">Highest Partnership (in runs):</label>
+            <input type="text" id="highestPartnership" name="highestPartnership" placeholder="Enter runs">
+
+            <input type="submit" value="Submit Predictions">
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('bettingForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            // Collect form data
+            const formData = new FormData(event.target);
+            const data = {};
+            formData.forEach((value, key) => {
+                data[key] = value;
+            });
+            // Handle form submission (e.g., send data to a server)
+            console.log('Form data submitted:', data);
+            alert('Your predictions have been submitted!');
+        });
+    </script>
+</body>
+</html>

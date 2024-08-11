@@ -1,0 +1,203 @@
+{
+    "TEAMOKHA": {
+      "name": "TEAM OKHA",
+      "players": [
+        {"name": "Pritesh Patel", "role": "Batsman", "captain": true},
+        {"name": "Kirtan Patel", "role": "Batsman"},
+        {"name": "Anoop Singh", "role": "Batsman"},
+        {"name": "Aakash Patel", "role": "Batsman"},
+        {"name": "Jeken Patel", "role": "Batsman"},
+        {"name": "Ashwin Chhabadiya", "role": "Rounder"},
+        {"name": "Jignesh Kerai", "role": "Rounder"},
+        {"name": "Rohit Patel", "role": "Rounder"},
+        {"name": "Pragnesh Patel", "role": "Rounder"},
+        {"name": "Manickam", "role": "Rounder"},
+        {"name": "Paresh Hirani", "role": "Rounder"},
+        {"name": "Dhruval Patel", "role": "Rounder"},
+        {"name": "Heminkumar Patel", "role": ""},
+        {"name": "Rakesh Padhra", "role": ""},
+        {"name": "Jigar Patel", "role": ""}
+      ]
+    },
+    "TEAMKIBOS": {
+      "name": "TEAM KIBOS",
+      "players": [
+        {"name": "Shishir Singh", "role": "Rounder", "captain": true},
+        {"name": "Sehajveer Singh", "role": "Batsman"},
+        {"name": "Kamaljeet Singh", "role": "Batsman"},
+        {"name": "Kamaldeep Singh", "role": "Batsman"},
+        {"name": "Ravi Satisya", "role": "Batsman"},
+        {"name": "Pawan Patel", "role": "Batsman"},
+        {"name": "Mitesh Kumar", "role": "Batsman"},
+        {"name": "Ravi Kumar", "role": "Bowler"},
+        {"name": "Dharmendra Kumar", "role": "Rounder"},
+        {"name": "Kushal Garg", "role": "Rounder"},
+        {"name": "Pritesh A Patel", "role": "Rounder"},
+        {"name": "Raju Pawar", "role": "Rounder"},
+        {"name": "Vicky Sharma", "role": "Batsman"},
+        {"name": "Mata Prasad", "role": "Batsman"},
+        {"name": "Gogada Suresh", "role": "Rounder"}
+      ]
+    },
+    "ALLSONDUWARRIORS": {
+      "name": "ALLSONDU WARRIORS",
+      "players": [
+        {"name": "Dixit Patel", "role": "Batsman", "captain": true},
+        {"name": "Jigar Kerai", "role": "Batsman"},
+        {"name": "Raj Patel", "role": "Batsman"},
+        {"name": "Dharmik Patel", "role": "Batsman"},
+        {"name": "Hardik Patel", "role": "Batsman"},
+        {"name": "Sumit Patel", "role": "Batsman"},
+        {"name": "Pratik Patel", "role": "Bowler"},
+        {"name": "Kunj Patel", "role": "Rounder"},
+        {"name": "Pritam Bhudiya", "role": "Rounder"},
+        {"name": "Hiren Patel", "role": "Rounder"},
+        {"name": "Deval Prajapati", "role": "Rounder"},
+        {"name": "Neelesh Patel", "role": "Rounder"},
+        {"name": "Ramesh Bhudia", "role": "Rounder"},
+        {"name": "Nayan Prajapati", "role": ""},
+        {"name": "Saurabh Kerai", "role": ""}
+      ]
+    },
+    "CHUMAWARRIORS": {
+      "name": "CHUMA WARRIORS",
+      "players": [
+        {"name": "Harsh Patel", "role": "Batsman", "captain": true},
+        {"name": "Jay Patel", "role": "Batsman"},
+        {"name": "Jaimin H Patel", "role": "Batsman"},
+        {"name": "Mehul Patel", "role": "Batsman"},
+        {"name": "Chetan Patel", "role": "Batsman"},
+        {"name": "Yuv Patel", "role": "Bowler"},
+        {"name": "Mehul Patel", "role": "Rounder"},
+        {"name": "Jeet K Patel", "role": "Bowler"},
+        {"name": "Nitin Bhatt", "role": "Rounder"},
+        {"name": "Vishnu Khetia", "role": "Rounder"},
+        {"name": "Mit V Patel", "role": "Rounder"},
+        {"name": "Rajesh Bhatt", "role": "Rounder"},
+        {"name": "Haresh Bhachubhai", "role": ""},
+        {"name": "Rafiq Ali", "role": ""},
+        {"name": "Sandeep Patel", "role": ""}
+      ]
+    },
+    "MATTRESSTITANS": {
+      "name": "MATTRESS TITANS",
+      "players": [
+        {"name": "Aman Patel", "role": "Rounder", "captain": true},
+        {"name": "Pritesh Patel", "role": "Batsman"},
+        {"name": "Anil Patel", "role": "Batsman"},
+        {"name": "Vishal Vekaria", "role": "Batsman"},
+        {"name": "Kundan Patel", "role": "Batsman"},
+        {"name": "Mit P Patel", "role": "Rounder"},
+        {"name": "Nikesh Patel", "role": "Rounder"},
+        {"name": "Mit R Patel", "role": "Rounder"},
+        {"name": "Darshan Chhabadia", "role": "Rounder"},
+        {"name": "Kuldeep Kumar", "role": "Rounder"},
+        {"name": "Jignesh B Patel", "role": "Batsman"},
+        {"name": "Siddh Patel", "role": "Batsman"},
+        {"name": "Pratul Patel", "role": "Rounder"},
+        {"name": "Dharmesh Patel", "role": ""},
+        {"name": "Dinesh Vekaria", "role": ""}
+      ]
+    },
+    "TEAMANVI": {
+      "name": "TEAM ANVI",
+      "players": [
+        {"name": "Nakul", "role": "Rounder", "captain": true},
+        {"name": "Akash Patel", "role": "Batsman"},
+        {"name": "Nikhil Patel", "role": "Batsman"},
+        {"name": "Abhishek Patel", "role": "Batsman"},
+        {"name": "Parth Patel", "role": "Batsman"},
+        {"name": "Ashish Patel", "role": "Batsman"},
+        {"name": "Nilesh Kerai", "role": "Bowler"},
+        {"name": "Vasu Makadiya", "role": "Rounder"},
+        {"name": "Manish Patel", "role": "Rounder"},
+        {"name": "Hiren Patel", "role": "Rounder"},
+        {"name": "Harshil Patel", "role": "Rounder"},
+        {"name": "Sheel Patel", "role": "Rounder"},
+        {"name": "Rajeev Singh", "role": "Rounder"},
+        {"name": "Gurumukh Singh", "role": "Rounder"},
+        {"name": "Girish Varsani", "role": "Rounder"}
+      ]
+    },
+    "VICTORIASTRIKERS": {
+      "name": "VICTORIA STRIKERS",
+      "players": [
+        {"name": "Santosh Patel", "role": "Batsman", "captain": true},
+        {"name": "Dhansukh Varsani", "role": "Batsman"},
+        {"name": "Jignesh Patel", "role": "Batsman"},
+        {"name": "Suresh Panchani", "role": "Batsman"},
+        {"name": "Darshan A Patel", "role": "Rounder"},
+        {"name": "Pravin Rabadiya", "role": "Rounder"},
+        {"name": "Mukesh Hirani", "role": "Rounder"},
+        {"name": "Mukesh Dabasya", "role": "Rounder"},
+        {"name": "Devendra Patel", "role": "Rounder"},
+        {"name": "Manish Patel P.Samaj", "role": "Rounder"},
+        {"name": "Hirtik Patel", "role": "Rounder"},
+        {"name": "Neel Patel", "role": "Rounder"},
+        {"name": "Armandeep Singh", "role": ""},
+        {"name": "Rajeev Sharma", "role": ""},
+        {"name": "Arpan Patel", "role": ""}
+      ]
+    },
+    "ALMASTSTARS": {
+      "name": "ALMAST STARS",
+      "players": [
+        {"name": "Somesh Mehta", "role": "Rounder", "captain": true},
+        {"name": "Neel Patel", "role": "Batsman"},
+        {"name": "Gurmit Singh", "role": "Batsman"},
+        {"name": "Dhyan Patel", "role": "Batsman"},
+        {"name": "Bansi Bhalani", "role": "Batsman"},
+        {"name": "Akshar Patel", "role": "Batsman"},
+        {"name": "Ramesh Vekariya", "role": "Bowler"},
+        {"name": "Mahesh Bhudiya", "role": "Bowler"},
+        {"name": "Darshan Patel", "role": "Bowler"},
+        {"name": "Shiv P Patel", "role": "Rounder"},
+        {"name": "Vinit Hirani", "role": "Rounder"},
+        {"name": "Mahesh Kerai", "role": "Bowler"},
+        {"name": "Jagdish Rabadia", "role": "Rounder"},
+        {"name": "Avtrar Singh", "role": ""},
+        {"name": "Hardev Singh", "role": ""}
+      ]
+    },
+    "PRAMUKHTIGERS": {
+      "name": "PRAMUKH TIGERS",
+      "players": [
+        {"name": "Pintu Patel", "role": "Rounder", "captain": true},
+        {"name": "Guru Patel", "role": "Batsman"},
+        {"name": "Montu Patel", "role": "Batsman"},
+        {"name": "Maan Patel", "role": "Batsman"},
+        {"name": "Jeel Patel", "role": "Batsman"},
+        {"name": "Moksh Patel", "role": "Batsman"},
+        {"name": "Hiral Patel", "role": "Rounder"},
+        {"name": "Tilak S Patel", "role": "Rounder"},
+        {"name": "Sunil Patel", "role": "Rounder"},
+        {"name": "Gaurang Prajapati", "role": "Rounder"},
+        {"name": "Hinesh Patel", "role": "Rounder"},
+        {"name": "Harsh Patel", "role": "Batsman"},
+        {"name": "Nirmal Patel", "role": "Batsman"},
+        {"name": "Tirth Zala", "role": ""},
+        {"name": "Ramesh Kumar", "role": ""}
+      ]
+    },
+    "UNITEDSTARS": {
+      "name": "UNITED STARS",
+      "players": [
+        {"name": "Naveen Singh", "role": "Rounder", "captain": true},
+        {"name": "Kishan Kumar", "role": "Batsman"},
+        {"name": "Nirav Patel", "role": "Batsman"},
+        {"name": "Mitesh Patel", "role": "Batsman"},
+        {"name": "Mohit Patel", "role": "Batsman"},
+        {"name": "Kushawa Rishikesh", "role": "Batsman"},
+        {"name": "Faheem Ahmed", "role": "Bowler"},
+        {"name": "Rizwan Ali", "role": "Rounder"},
+        {"name": "Mayur Lad", "role": "Rounder"},
+        {"name": "Shashank Kaushik", "role": "Rounder"},
+        {"name": "Rajesh Prasad", "role": "Rounder"},
+        {"name": "Shrikant Goud", "role": "Rounder"},
+        {"name": "Hardik N Patel", "role": "Batsman"},
+        {"name": "Harsh D Patel", "role": "Batsman"},
+        {"name": "Aryan Patel", "role": "Rounder"}
+      ]
+    }
+  }
+  

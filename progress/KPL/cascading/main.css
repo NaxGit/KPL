@@ -1,0 +1,142 @@
+@font-face {
+	font-family: indigenous;
+	src: url(./assets/Rajdhani.ttf);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 100%;
+}
+
+body {
+	background: #7665AC;
+	background: #00863D;
+	background: #002B36;
+	background: #10172B;
+	background: #19398A;
+	font-family: 'indigenous', 'Roboto', sans-serif;
+	color: #FF671F;
+}
+
+/* header */
+
+header {
+	background: #3D4849 url('./icons/zoro.svg');
+	background-size: auto 90%;
+	background-repeat: no-repeat;
+	background-position: bottom left;
+}
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 3rem;
+	height: 3rem;
+	font-size: 1.6rem;
+	font-weight: bold;
+	margin-left: auto;
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.6s ease-in;
+}
+li {
+	padding: 0;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: fit-content;
+	height: 10vw;
+	margin-left: auto;
+	padding-right: 1rem;
+	border-top: 3px groove #FF671F;
+	border-radius: 0.25rem 0 0 0;
+	letter-spacing: 0.25rem;
+}
+li:active {
+	color: #FFFFFF;
+}
+nav:active {
+	color: #FFFFFF;
+}
+.expand {
+	max-height: 100vw; /* ViewPort Width */
+}
+
+button {
+	position: fixed;
+	bottom: 1rem;
+	right: 1rem;
+	width: 3rem;
+	height: 3rem;
+
+	font-size: 1.6rem;
+	font-weight: bold;
+
+	border: 2px groove #FF671F;
+	outline: none;
+	background: #10172B url('./icons/play.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+/* Match Fixture */
+
+.Match-Fixture {
+
+	* {
+		border-radius: 0.37rem;
+	}
+
+	article {
+		margin: 0.5rem;
+		padding: 0.5rem 0.5rem 0.25rem 0.5rem;
+		position: relative;
+		background: #10172B;
+	}
+
+	article::after {
+		content: "Vs";
+		width: 10%;
+		position: absolute;
+		top: 1rem;
+		left: 45%;
+		color: #FFFFFF;
+		text-align: center;
+		background: #19398A;
+	}
+
+	div {
+		display: flex;
+	}
+
+	span {
+		flex: 1;
+		padding: 0.5rem 0;
+		text-align: center;
+		background: #19398A;
+	}
+
+	span:last-of-type {
+		background: gold;
+	}
+
+	p {
+		color: #FFFFFF;
+	}
+
+	summary::marker {
+		color: gold;
+	}
+
+}

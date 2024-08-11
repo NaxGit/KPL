@@ -1,0 +1,114 @@
+[
+    {
+        "team1": "Almast Stars",
+        "team2": "Victoria Strikers",
+        "result": "Victoria Strikers won by 6 wickets",
+        "date": "04-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "United Stars",
+        "team2": "Team Kibos",
+        "result": "Team Kibos won by 5 wickets",
+        "date": "04-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "AllSondu Warriors",
+        "team2": "Team Okha",
+        "result": "Team Okha won by 8 wickets",
+        "date": "04-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "Pramukh Tigers",
+        "team2": "Team Anvi",
+        "result": "Team Anvi won by 6 wickets",
+        "date": "04-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "Team Okha",
+        "team2": "Almast Stars",
+        "result": "Team Okha won by 27 runs",
+        "date": "03-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "Chuma Warriors",
+        "team2": "AllSondu Warriors",
+        "result": "Chuma Warriors won by 32 runs",
+        "date": "03-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "United Stars",
+        "team2": "Pramukh Tigers",
+        "result": "United Stars won by 50 runs",
+        "date": "03-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "Team Anvi",
+        "team2": "Victoria Strikers",
+        "result": "Victoria Strikers won by 10 wickets",
+        "date": "02-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "Mattress Titans",
+        "team2": "AllSondu Warriors",
+        "result": "AllSondu Warriors won by 6 wickets",
+        "date": "02-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "Team Kibos",
+        "team2": "Chuma Warriors",
+        "result": "Team Kibos won by 5 runs",
+        "date": "02-Aug-24",
+        "type": "recent"
+    },
+    {
+        "team1": "Pramukh Tigers",
+        "team2": "Almast Stars",
+        "time": "08:15 AM",
+        "date": "07-Aug-24",
+        "type": "upcoming"
+    },
+    {
+        "team1": "Victoria Strikers",
+        "team2": "Mattress Titans",
+        "time": "07:00 AM",
+        "date": "07-Aug-24",
+        "type": "upcoming"
+    },
+    {
+        "team1": "Almast Stars",
+        "team2": "Mattress Titans",
+        "time": "08:15 AM",
+        "date": "08-Aug-24",
+        "type": "upcoming"
+    },
+    {
+        "team1": "Victoria Strikers",
+        "team2": "Chuma Warriors",
+        "time": "07:00 AM",
+        "date": "08-Aug-24",
+        "type": "upcoming"
+    },
+    {
+        "team1": "Pramukh Tigers",
+        "team2": "Victoria Strikers",
+        "time": "08:00 AM",
+        "date": "09-Aug-24",
+        "type": "upcoming"
+    },
+    {
+        "team1": "AllSondu Warriors",
+        "team2": "Team Kibos",
+        "time": "08:15 AM",
+        "date": "09-Aug-24",
+        "type": "upcoming"
+    }
+]

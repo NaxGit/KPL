@@ -1,0 +1,72 @@
+@font-face {
+	font-family: indigenous;
+	src: url(./Rajdhani-Bold.ttf);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/* 1/137 */
+}
+
+html {
+	color: #FF671F;
+	font-size: 100%;
+}
+
+body {
+	/* background: #7665AC; */
+	/* background: #00863D; */
+	background: #002B36;
+	/* background: #10172B; */
+	/* background: #19398a; */
+	/* background: #FFFFFF; */
+	font-family: 'indigenous', 'Roboto', sans-serif;
+}
+
+
+:root {
+	--gorp: hsl(19, 100%, 56%);
+	--ThemeHEX: #035F6B;
+	--ThemeHSL: hsl(187, 95%, 22%);
+	/* background: #3D3D3D; */
+	/* background: #19398A; Officla */
+}
+
+
+/*
+	clip-path: circle(50% at 50% 50%);
+*/
+
+
+#matches
+{
+	article
+{
+	display: grid;
+	padding: 0.5rem;
+	grid-template-columns: 1fr 10% 1fr;
+	background: #10172B;
+	border-radius: 0.37rem;
+	margin: 0.25rem;
+}
+div
+{
+	padding: 0.5rem;
+	text-align: center;
+
+	background: #19398A;
+	border-radius: 0.37rem;
+}
+span
+{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.logo {
+	aspect-ratio: 1/1;
+	background: slateblue;
+}
+}

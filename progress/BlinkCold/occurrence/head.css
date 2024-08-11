@@ -1,0 +1,64 @@
+:host
+{
+	display: block;
+
+	background: #3D4849 url('../philosophy/flatron.svg');
+	background-size: auto 90%; /* Image will be 50% of the width and 50% of the height of the container */
+	background-repeat: no-repeat; /* Prevents repeating of the background image */
+	background-position: bottom left; /* Center the background image */
+*	{
+	box-sizing: border-box;
+}
+}
+
+.menu
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	/* background: #19398A; */
+
+	width: 3rem;
+	height: 3rem;
+
+	font-size: 1.5rem;
+	font-weight: bold;
+	color: #FF671F;
+
+	margin-left: auto;
+	transition: background 0.3s ease-in;
+}
+
+.list
+{
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.6s ease-in;
+}
+
+.item
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: fit-content;
+	height: 10vw;
+
+	margin-left: auto;
+	padding-right: 1rem;
+
+	border-top: 3px groove #FF671F;
+	border-radius: 0.25rem 0 0 0;
+
+	letter-spacing: 0.25rem;
+}
+
+/* .list div:first-child { margin-top: 1.5rem;} */
+
+.expanded
+{
+	max-height: 100vw; /* ViewPort Width */
+}
+.tost {background: #3D4849;}

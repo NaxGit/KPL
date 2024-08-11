@@ -1,0 +1,146 @@
+[
+	{
+		"home": "Team Anvi",
+		"hOve": "77/8 [10.0]",
+		"away": "Victoria Strikers",
+		"aOve": "83/0 [7.2]",
+		"date": "02-Aug-24 | 07:22 AM",
+		"past": true,
+		"come": "Victoria Strikers won by 10 wickets"
+	},
+	{
+		"home": "Chuma Warriors",
+		"hOve": "143/5 [10.0]",
+		"away": "Team Kibos",
+		"aOve": "148/3 [10.0]",
+		"date": "02-Aug-24 | 08:33 AM",
+		"past": true,
+		"come": "Team Kibos won by 5 runs"
+	},
+	{
+		"home": "Mattress Titans",
+		"hOve": "93/5 [10.0]",
+		"away": "AllSondu Warriors",
+		"aOve": "97/4 [9.2]",
+		"date": "02-Aug-24 | 10:15 AM",
+		"past": true,
+		"come": "AllSondu Warriors won by 6 wickets"
+	},
+	{
+		"home": "Almast Stars",
+		"hOve": "73/10 [10.0]",
+		"away": "Team Okha",
+		"aOve": "100/5 [10.0]",
+		"date": "03-Aug-24 | 06:40 AM",
+		"past": true,
+		"come": "Team Okha won by 27 runs"
+	},
+	{
+		"home": "Pramukh Tigers",
+		"hOve": "89/5 [10.0]",
+		"away": "United Stars",
+		"aOve": "139/3 [10.0]",
+		"date": "03-Aug-24 | 08:11 AM",
+		"past": true,
+		"come": "United Stars won by 50 runs"
+	},
+	{
+		"home": "AllSondu Warriors",
+		"hOve": "124/4 [10.0]",
+		"away": "Chuma Warriors",
+		"aOve": "156/4 [10.0]",
+		"date": "03-Aug-24 | 09:44 AM",
+		"past": true,
+		"come": "Chuma Warriors won by 32 runs"
+	},
+	{
+		"home": "United Stars",
+		"hOve": "117/6 [10.0]",
+		"away": "Team Kibos",
+		"aOve": "118/5 [9.4]",
+		"date": "04-Aug-24 | 05:55 AM",
+		"past": true,
+		"come": "Team Kibos won by 5 wickets"
+	},
+	{
+		"home": "Pramukh Tigers",
+		"hOve": "95/5 [10.0]",
+		"away": "Team Anvi",
+		"aOve": "97/4 [9.0]",
+		"date": "04-Aug-24 | 07:25 AM",
+		"past": true,
+		"come": "Team Anvi won by 6 wickets"
+	},
+	{
+		"home": "AllSondu Warriors",
+		"hOve": "64/9 [10.0]",
+		"away": "Team Okha",
+		"aOve": "67/2 [7.1]",
+		"date": "04-Aug-24 | 08:50 AM",
+		"past": true,
+		"come": "Team Okha won by 8 wickets"
+	},
+	{
+		"home": "Almast Stars",
+		"hOve": "91/5 [10.0]",
+		"away": "Victoria Strikers",
+		"aOve": "95/4 [9.4]",
+		"date": "04-Aug-24 | 10:07 AM",
+		"past": true,
+		"come": "Victoria Strikers won by 6 wickets"
+	},
+	{
+		"home": "Mattress Titans",
+		"hOve": "90/6 [10.0]",
+		"away": "Victoria Strikers",
+		"aOve": "156/1 [10.0]",
+		"date": "07-Aug-24 | 07:37 AM ",
+		"past": true,
+		"come": "Victoria Strikers won by 66 wickets"
+	},
+	{
+		"home": "Almast Stars",
+		"hOve": "59/9 [10.0]",
+		"away": "Pramukh Tigers",
+		"aOve": "102/6 [10.0]",
+		"date": "07-Aug-24 | 09:05 AM ",
+		"past": true,
+		"come": "Pramukh Tigers won by 43 runs"
+	},
+	{
+		"home": "Victoria Strikers",
+		"hOve": "[]",
+		"away": "Chuma Warriors",
+		"aOve": "[]",
+		"date": "08-Aug-24 | 07:00 AM ",
+		"past": false,
+		"come": ""
+	},
+	{
+		"home": "Almast Stars",
+		"hOve": "[]",
+		"away": "Mattress Titans",
+		"aOve": "[]",
+		"date": "08-Aug-24 | 08:15 AM ",
+		"past": false,
+		"come": ""
+	},
+	{
+		"home": "Pramukh Tigers",
+		"hOve": "[]",
+		"away": "Victoria Strikers",
+		"aOve": "[]",
+		"date": "09-Aug-24 | 08:00 AM ",
+		"past": false,
+		"come": ""
+	},
+	{
+		"home": "AllSondu Warriors",
+		"hOve": "[]",
+		"away": "Team Kibos",
+		"aOve": "[]",
+		"date": "09-Aug-24 | 08:15 AM ",
+		"past": false,
+		"come": ""
+	}
+]

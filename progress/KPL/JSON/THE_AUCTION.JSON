@@ -1,0 +1,384 @@
+{
+    "auctions": [
+      {
+        "id": "TEAMOKHA",
+        "name": "TEAM OKHA",
+        "balance": 700,
+        "members": [
+          {"name": "Pritesh Patel", "value": "©"},
+          {"name": "Kirtan Patel", "value": 200},
+          {"name": "Anoop Singh", "value": 700},
+          {"name": "Aakash Patel", "value": 600},
+          {"name": "Jeken Patel", "value": 1800},
+          {"name": "Ashwin Chhabadiya", "value": 1300},
+          {"name": "Jignesh Kerai", "value": 200},
+          {"name": "Rohit Patel", "value": 2200},
+          {"name": "Pragnesh Patel", "value": 1800},
+          {"name": "Manickam", "value": 200},
+          {"name": "Paresh Hirani", "value": 700},
+          {"name": "Dhruval Patel", "value": 600},
+          {"name": "Heminkumar Patel", "value": null},
+          {"name": "Rakesh Padhra", "value": null},
+          {"name": "Jigar Patel", "value": null}
+        ]
+      },
+      {
+        "id": "TEAMKIBOS",
+        "name": "TEAM KIBOS",
+        "balance": 3800,
+        "members": [
+          {"name": "Shishir Singh", "value": "©"},
+          {"name": "Sehajveer Singh", "value": 200},
+          {"name": "Kamaljeet Singh", "value": 600},
+          {"name": "Kamaldeep Singh", "value": 1900},
+          {"name": "Ravi Satisya", "value": 200},
+          {"name": "Pawan Patel", "value": 200},
+          {"name": "Mitesh Kumar", "value": 200},
+          {"name": "Ravi Kumar", "value": 200},
+          {"name": "Dharmendra Kumar", "value": 200},
+          {"name": "Kushal Garg", "value": 200},
+          {"name": "Pritesh A Patel", "value": 2000},
+          {"name": "Raju Pawar", "value": 200},
+          {"name": "Vicky Sharma", "value": 200},
+          {"name": "Mata Prasad", "value": 200},
+          {"name": "Gogada Suresh", "value": 700}
+        ]
+      },
+      {
+        "id": "ALLSONDUWARRIORS",
+        "name": "ALLSONDU WARRIORS",
+        "balance": 750,
+        "members": [
+          {"name": "Dixit Patel", "value": "©"},
+          {"name": "Jigar Kerai", "value": 200},
+          {"name": "Raj Patel", "value": 300},
+          {"name": "Dharmik Patel", "value": 1800},
+          {"name": "Hardik Patel", "value": 350},
+          {"name": "Sumit Patel", "value": 200},
+          {"name": "Pratik Patel", "value": 400},
+          {"name": "Kunj Patel", "value": 800},
+          {"name": "Pritam Bhudiya", "value": 1700},
+          {"name": "Hiren Patel", "value": 3300},
+          {"name": "Deval Prajapati", "value": 200},
+          {"name": "Neelesh Patel", "value": 700},
+          {"name": "Ramesh Bhudia", "value": 300},
+          {"name": "Nayan Prajapati", "value": null},
+          {"name": "Saurabh Kerai", "value": null}
+        ]
+      },
+      {
+        "id": "CHUMAWARRIORS",
+        "name": "CHUMA WARRIORS",
+        "balance": 200,
+        "members": [
+          {"name": "Harsh Patel", "value": "©"},
+          {"name": "Jay Patel", "value": 2000},
+          {"name": "Jaimin H Patel", "value": 2300},
+          {"name": "Mehul Patel", "value": 300},
+          {"name": "Chetan Patel", "value": 200},
+          {"name": "Yuv Patel", "value": 200},
+          {"name": "Mehul Patel", "value": 4200},
+          {"name": "Jeet K Patel", "value": 200},
+          {"name": "Nitin Bhatt", "value": 800},
+          {"name": "Vishnu Khetia", "value": 200},
+          {"name": "Mit V Patel", "value": 200},
+          {"name": "Rajesh Bhatt", "value": 200},
+          {"name": "Haresh Bhachubhai", "value": null},
+          {"name": "Rafiq Ali", "value": null},
+          {"name": "Sandeep Patel", "value": null}
+        ]
+      },
+      {
+        "id": "MATTRESSTITANS",
+        "name": "MATTRESS TITANS",
+        "balance": 500,
+        "members": [
+          {"name": "Aman Patel", "value": "©"},
+          {"name": "Pritesh Patel", "value": 2100},
+          {"name": "Anil Patel", "value": 600},
+          {"name": "Vishal Vekaria", "value": 700},
+          {"name": "Kundan Patel", "value": 1900},
+          {"name": "Mit P Patel", "value": 200},
+          {"name": "Nikesh Patel", "value": 1700},
+          {"name": "Mit R Patel", "value": 1200},
+          {"name": "Darshan Chhabadia", "value": 700},
+          {"name": "Kuldeep Kumar", "value": 300},
+          {"name": "Jignesh B Patel", "value": 200},
+          {"name": "Siddh Patel", "value": 200},
+          {"name": "Pratul Patel", "value": 700},
+          {"name": "Dharmesh Patel", "value": null},
+          {"name": "Dinesh Vekaria", "value": null}
+        ]
+      },
+      {
+        "id": "TEAMANVI",
+        "name": "TEAM ANVI",
+        "balance": 850,
+        "members": [
+          {"name": "Nakul", "value": "©"},
+          {"name": "Akash Patel", "value": 450},
+          {"name": "Nikhil Patel", "value": 3200},
+          {"name": "Abhishek Patel", "value": 400},
+          {"name": "Parth Patel", "value": 350},
+          {"name": "Ashish Patel", "value": 200},
+          {"name": "Nilesh Kerai", "value": 200},
+          {"name": "Vasu Makadiya", "value": 200},
+          {"name": "Manish Patel", "value": 800},
+          {"name": "Hiren Patel", "value": 200},
+          {"name": "Harshil Patel", "value": 500},
+          {"name": "Sheel Patel", "value": 2200},
+          {"name": "Rajeev Singh", "value": 200},
+          {"name": "Gurumukh Singh", "value": 450},
+          {"name": "Girish Varsani", "value": 800}
+        ]
+      },
+      {
+        "id": "VICTORIASTRIKERS",
+        "name": "VICTORIA STRIKERS",
+        "balance": 200,
+        "members": [
+          {"name": "Santosh Patel", "value": "©"},
+          {"name": "Dhansukh Varsani", "value": 2300},
+          {"name": "Jignesh Patel", "value": 200},
+          {"name": "Suresh Panchani", "value": 1000},
+          {"name": "Darshan A Patel", "value": 400},
+          {"name": "Pravin Rabadiya", "value": 200},
+          {"name": "Mukesh Hirani", "value": 500},
+          {"name": "Mukesh Dabasya", "value": 200},
+          {"name": "Devendra Patel", "value": 500},
+          {"name": "Manish Patel P.Samaj", "value": 800},
+          {"name": "Hirtik Patel", "value": 2100},
+          {"name": "Neel Patel", "value": 2600},
+          {"name": "Armandeep Singh", "value": null},
+          {"name": "Rajeev Sharma", "value": null},
+          {"name": "Arpan Patel", "value": null}
+        ]
+      },
+      {
+        "id": "ALMASTSTARS",
+        "name": "ALMAST STARS",
+        "balance": 1500,
+        "members": [
+          {"name": "Somesh Mehta", "value": "©"},
+          {"name": "Neel Patel", "value": 500},
+          {"name": "Vikas Patel", "value": 800},
+          {"name": "Yogesh Patel", "value": 200},
+          {"name": "Vikram Patel", "value": 800},
+          {"name": "Kishor Patel", "value": 200},
+          {"name": "Sandeep Patel", "value": 200},
+          {"name": "Ashok Patel", "value": 200},
+          {"name": "Rajesh Patel", "value": 300},
+          {"name": "Mahesh Patel", "value": 200},
+          {"name": "Dipak Patel", "value": 200},
+          {"name": "Raj Patel", "value": 600},
+          {"name": "Bharat Patel", "value": 600},
+          {"name": "Kishor Patel", "value": null},
+          {"name": "Suman Patel", "value": null}
+        ]
+      }
+    ]
+  }
+  
+
+{
+    "TEAM_OKHA": {
+        "Balance": 700,
+        "Members": {
+            "Pritesh Patel": 0,
+            "Kirtan Patel": 200,
+            "Anoop Singh": 700,
+            "Aakash Patel": 600,
+            "Jeken Patel": 1800,
+            "Ashwin Chhabadiya": 1300,
+            "Jignesh Kerai": 200,
+            "Rohit Patel": 2200,
+            "Pragnesh Patel": 1800,
+            "Manickam": 200,
+            "Paresh Hirani": 700,
+            "Dhruval Patel": 600,
+            "Heminkumar Patel": 0,
+            "Rakesh Padhra": 0,
+            "Jigar Patel": 0
+        }
+    },
+    "TEAM_KIBOS": {
+        "Balance": 3800,
+        "Members": {
+            "Shishir Singh": 0,
+            "Sehajveer Singh": 200,
+            "Kamaljeet Singh": 600,
+            "Kamaldeep Singh": 1900,
+            "Ravi Satisya": 200,
+            "Pawan Patel": 200,
+            "Mitesh Kumar": 200,
+            "Ravi Kumar": 200,
+            "Dharmendra Kumar": 200,
+            "Kushal Garg": 200,
+            "Pritesh A Patel": 2000,
+            "Raju Pawar": 200,
+            "Vicky Sharma": 200,
+            "Mata Prasad": 200,
+            "Gogada Suresh": 700
+        }
+    },
+    "ALLSONDU_WARRIORS": {
+        "Balance": 750,
+        "Members": {
+            "Dixit Patel": 0,
+            "Jigar Kerai": 200,
+            "Raj Patel": 300,
+            "Dharmik Patel": 1800,
+            "Hardik Patel": 350,
+            "Sumit Patel": 200,
+            "Pratik Patel": 400,
+            "Kunj Patel": 800,
+            "Pritam Bhudiya": 1700,
+            "Hiren Patel": 3300,
+            "Deval Prajapati": 200,
+            "Neelesh Patel": 700,
+            "Ramesh Bhudia": 300,
+            "Nayan Prajapati": 0,
+            "Saurabh Kerai": 0
+        }
+    },
+    "CHUMA_WARRIORS": {
+        "Balance": 200,
+        "Members": {
+            "Harsh Patel": 0,
+            "Jay Patel": 2000,
+            "Jaimin H Patel": 2300,
+            "Mehul Patel": 300,
+            "Chetan Patel": 200,
+            "Yuv Patel": 200,
+            "Mehul Patel": 4200,
+            "Jeet K Patel": 200,
+            "Nitin Bhatt": 800,
+            "Vishnu Khetia": 200,
+            "Mit V Patel": 200,
+            "Rajesh Bhatt": 200,
+            "Haresh Bhachubhai": 0,
+            "Rafiq Ali": 0,
+            "Sandeep Patel": 0
+        }
+    },
+    "MATTRESS_TITANS": {
+        "Balance": 500,
+        "Members": {
+            "Aman Patel": 0,
+            "Pritesh Patel": 2100,
+            "Anil Patel": 600,
+            "Vishal Vekaria": 700,
+            "Kundan Patel": 1900,
+            "Mit P Patel": 200,
+            "Nikesh Patel": 1700,
+            "Mit R Patel": 1200,
+            "Darshan Chhabadia": 700,
+            "Kuldeep Kumar": 300,
+            "Jignesh B Patel": 200,
+            "Siddh Patel": 200,
+            "Pratul Patel": 700,
+            "Dharmesh Patel": 0,
+            "Dinesh Vekaria": 0
+        }
+    },
+    "TEAM_ANVI": {
+        "Balance": 850,
+        "Members": {
+            "Nakul": 0,
+            "Akash Patel": 450,
+            "Nikhil Patel": 3200,
+            "Abhishek Patel": 400,
+            "Parth Patel": 350,
+            "Ashish Patel": 200,
+            "Nilesh Kerai": 200,
+            "Vasu Makadiya": 200,
+            "Manish Patel": 800,
+            "Hiren Patel": 200,
+            "Harshil Patel": 500,
+            "Sheel Patel": 2200,
+            "Rajeev Singh": 200,
+            "Gurumukh Singh": 450,
+            "Girish Varsani": 800
+        }
+    },
+    "VICTORIA_STRIKERS": {
+        "Balance": 200,
+        "Members": {
+            "Santosh Patel": 0,
+            "Dhansukh Varsani": 2300,
+            "Jignesh Patel": 200,
+            "Suresh Panchani": 1000,
+            "Darshan A Patel": 400,
+            "Pravin Rabadiya": 200,
+            "Mukesh Hirani": 500,
+            "Mukesh Dabasya": 200,
+            "Devendra Patel": 500,
+            "Manish Patel P.Samaj": 800,
+            "Hirtik Patel": 2100,
+            "Neel Patel": 2600,
+            "Armandeep Singh": 0,
+            "Rajeev Sharma": 0,
+            "Arpan Patel": 0
+        }
+    },
+    "ALMAST_STARS": {
+        "Balance": 1500,
+        "Members": {
+            "Somesh Mehta": 0,
+            "Neel Patel": 500,
+            "Gurmit Singh": 200,
+            "Dhyan Patel": 1600,
+            "Bansi Bhalani": 300,
+            "Akshar Patel": 200,
+            "Ramesh Vekariya": 200,
+            "Mahesh Bhudiya": 1300,
+            "Darshan Patel": 2000,
+            "Shiv P Patel": 1100,
+            "Vinit Hirani": 1000,
+            "Mahesh Kerai": 200,
+            "Jagdish Rabadia": 900,
+            "Avtrar Singh": 0,
+            "Hardev Singh": 0
+        }
+    },
+    "PRAMUKH_TIGERS": {
+        "Balance": 550,
+        "Members": {
+            "Pintu Patel": 0,
+            "Guru Patel": 200,
+            "Montu Patel": 500,
+            "Maan Patel": 350,
+            "Jeel Patel": 600,
+            "Moksh Patel": 250,
+            "Hiral Patel": 4300,
+            "Tilak S Patel": 1700,
+            "Sunil Patel": 450,
+            "Gaurang Prajapati": 600,
+            "Hinesh Patel": 500,
+            "Harsh Patel": 800,
+            "Nirmal Patel": 200,
+            "Tirth Zala": 0,
+            "Ramesh Kumar": 0
+        }
+    },
+    "UNITED_STARS": {
+        "Balance": 550,
+        "Members": {
+            "Naveen Singh": 0,
+            "Kishan Kumar": 600,
+            "Nirav Patel": 200,
+            "Mitesh Patel": 200,
+            "Mohit Patel": 1600,
+            "Kushawa Rishikesh": 500,
+            "Faheem Ahmed": 1200,
+            "Rizwan Ali": 2000,
+            "Mayur Lad": 800,
+            "Shashank Kaushik": 2200,
+            "Rajesh Prasad": 300,
+            "Shrikant Goud": 200,
+            "Hardik N Patel": 250,
+            "Harsh D Patel": 200,
+            "Aryan Patel": 200
+        }
+    }
+}

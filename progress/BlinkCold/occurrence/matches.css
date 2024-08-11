@@ -1,0 +1,32 @@
+:host{
+	* {box-sizing: border-box;}
+}
+
+article
+{
+	display: grid;
+	padding: 0.5rem;
+	grid-template-columns: 1fr 10% 1fr;
+	background: #10172B;
+	border-radius: 0.37rem;
+	margin: 0.5rem;
+}
+
+div
+{
+	padding: 0.5rem;
+	text-align: center;
+
+	background: #19398A;
+	border-radius: 0.37rem;
+}
+span
+{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.logo {
+	aspect-ratio: 1/1;
+	background: slateblue;
+}
